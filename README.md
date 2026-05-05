@@ -32,7 +32,7 @@ Just right click on "Config Backup.ps1 and select "Run with PowerShell" or run 
 
 ## Roadmap
 
-* 2026-05-05 Add: Backup/Restore: PowerShell profile
+* 2026-05-05 Reorganize GUI
 * 2025-10-22 Add: Backup/Restore: PowerShell profile
 * 2025-08-03 Add: rewrite the Restore function
 * 2025-08-02 Add: verify if apps and restore points are selected when Restoring
